@@ -1,0 +1,54 @@
+<include file="public:header"/>
+<div class="page-group">
+  <div class="page page-current" id="commentreply">
+
+<header class="bar bar-nav">
+  <a class="button button-link button-nav pull-left back">
+      <span class="icon icon-left"></span>
+      返回
+    </a>
+    <a class="button button-link button-nav pull-right" href="{:U('object/choose',array('id' => $comment['qid']))}">
+      <span class="icon">&nbsp;</span>
+      进入问题
+    </a>
+  <h1 class='title'>评论回复</h1>
+</header>
+
+<!-- 评论输入 -->
+<div class="bar bar-footer">
+  <div class="row">
+      <div class="search-input col-75">
+        <input type="search" name="comment" id='commentin' placeholder='输入评论...'/>
+          </div>
+          <a  href="" class="button button-fill button-primary col-25" id="comment">提 交
+        </a>
+    </div>
+</div>
+
+<!-- 评论查看 -->
+  <div class="content">
+      <div class="content-padded">    
+      &nbsp;&nbsp;{$comment['comment']}
+    </div>
+        <div class="list-block media-list">
+          <ul class="list-container">
+            <foreach name="reply" item="v"> 
+              <li class="item-content">
+              	<div class="item-inner">
+              	<div class="item-title"></div>
+              	<div class="item-text">{$v.comment}</div>
+              	</div>
+              </li>
+            </foreach>
+          </ul>
+        </div>  
+        <div class="content-padded"><a href="#" class="button button-light" id="loadmore">加 载 更 多 评 论 <span class="icon icon-down"></span></a>
+        </div>
+      </div>
+      <input type="hidden" id="pid" value="{$pid}"  />
+      <!-- page -->
+  </div>
+</div>
+
+
+<include file="public:footer"/>

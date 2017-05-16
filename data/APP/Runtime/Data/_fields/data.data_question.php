@@ -1,0 +1,1 @@
+a:9:{i:0;s:2:"id";i:1;s:3:"uid";i:2;s:3:"why";i:3;s:8:"question";i:4;s:3:"sum";i:5;s:3:"pub";i:6;s:5:"audit";s:3:"_pk";s:2:"id";s:5:"_type";a:7:{s:2:"id";s:21:"mediumint(8) unsigned";s:3:"uid";s:21:"mediumint(8) unsigned";s:3:"why";s:4:"text";s:8:"question";s:11:"varchar(80)";s:3:"sum";s:7:"int(10)";s:3:"pub";s:10:"tinyint(1)";s:5:"audit";s:6:"int(1)";}}

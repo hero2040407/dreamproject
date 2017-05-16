@@ -1,0 +1,47 @@
+<include file="public:header"/>
+
+<div class="page-group">
+  <div class="page page-current" id="login">
+   <header class="bar bar-nav">
+    <h1 class="title">用户登录</h1>
+  </header>
+<div class="content">
+<form id="form">
+  <div class="list-block">
+    <ul>
+      <!-- Text inputs -->
+      <li>
+        <div class="item-content">
+          
+          <div class="item-inner">
+            <div class="item-title label">用户名</div>
+            <div class="item-input">
+              <input type="text" name="mobile" placeholder="">
+            </div>
+          </div>
+        </div>
+      </li>
+       <li>
+        <div class="item-content">
+          
+          <div class="item-inner">
+            <div class="item-title label">密码</div>
+            <div class="item-input">
+              <input type="password" name="password" placeholder="" >
+           </div>
+         </div>
+        </div>
+      </li>
+     <ul>
+    </div>
+   </form>
+   <div class="content-block">
+   <div class="row">
+      <div class="col-50"><a href="{:U('index/register')}" class="button button-dark button-big" id="register">注 册</a></div>
+      <div class="col-50"><a href="#" class="button button-success button-big" id="login">登  录</a></div>
+    </div>
+  </div>
+  </div>
+ </div>
+</div>
+<include file="public:footer"/>

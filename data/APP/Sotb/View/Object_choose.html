@@ -1,0 +1,132 @@
+<include file="public:header"/>
+<div class="page-group">
+ <div class="page page-current" id="choose">
+<!-- header -->
+<header class="bar bar-nav">
+  <a class="button button-link button-nav pull-left back" href="{:U('index/index')}">
+      <span class="icon icon-left"></span>
+      返回
+    </a>
+  <h1 class='title'>问题选择</h1>
+</header>
+<!--  -->
+<div class="bar bar-footer">
+  <div class="row">
+      <div class="search-input col-75">
+        <input type="search" name="comment" id='commentin' placeholder='输入评论...'/>
+          </div>
+          <a  href="" class="button button-fill button-primary col-25" id="comment">提 交
+        </a>
+    </div>
+</div>
+<!--  -->
+  <div class="content">
+  <div class="list-block">
+    <ul>
+      <li>
+        <div class="item-content">
+              <h3>提问原因</h3>
+          </div>
+        </li>
+    </ul>
+        </div>  
+    <div class="content-padded">    
+      &nbsp;&nbsp;{$data.why}
+    </div>
+<!--  -->
+  <div class="list-block media-list">
+    <ul>
+      <li>
+        <div class="item-content">
+            <div class="item-inner">
+              <h3>&nbsp;&nbsp;{$data.question}</h3>
+            </div>
+          </div>
+        </li>
+    </ul>
+  <if condition="$res['cid'] gt 0 ">
+  <!-- 提交问题用户显示页面 -->
+    <ul>
+      <foreach name="choose" item="v">
+        <li>
+         <label class="label-checkbox item-content">
+          <if condition="$v['id'] eq $res['cid']">
+           <input type="radio" name="cid" checked="checked">
+      </if>
+        <div class="item-media"><i class="icon icon-form-checkbox"></i></div>
+          <div class="item-inner">
+            <div class="item-title-row">
+              {$v.choose}
+              <div class="item-after"><?php echo round(($v['total']*100/$data['sum']),1).'%' ?></div>
+              </div>
+              <div class="item-subtitle">
+              &nbsp;
+              </div>
+           </div>
+          </label>
+        </li>
+      </foreach>
+    </ul>
+    <div class="content-block"></div>
+      <div class="content-block" align="center">已 回 答 本 问 题</div>
+        <else />
+
+    <!-- 未提交问题和未登录用户显示页面 -->
+    <form id="form">
+     <ul>
+      <foreach name="choose" item="v">
+       <li>
+        <label class="label-checkbox item-content">
+         <input type="radio" name="cid" value="{$v.id}">
+          <div class="item-media"><i class="icon icon-form-checkbox"></i></div>
+           <div class="item-inner">
+            <div class="item-title-row">
+              {$v.choose}
+              </div>
+           </div>
+          </label>
+         </li>
+        </foreach>
+      </ul> 
+      <div class="content-block"></div>
+      <div class="content-padded"><a href="" class="button button-big button-fill button-success" id="submit">提交
+        </a> </div>
+        
+    </if>
+       <input type="hidden" name="qid" id="qid" value="{$data.id}">
+  </form>
+</div>
+<!-- list -->
+
+      <!-- 标签页 --> 
+  <div class="buttons-tab">
+    <a href="#tab1" class="tab-link  button">评  论</a>
+  </div>
+
+    <div class="tabs">
+      <div id="tab1" class="tab infinite-scroll active">
+        <div class="list-block media-list">
+          <ul class="list-container">
+            <foreach name="comment" item="v"> 
+              <li class="item-content">
+              <div class="item-inner">
+              <div class="item-title-row">
+              <div class="item-title">石头</div>
+              <a href="{:U('object/commentreply',array('pid' => $v['id']))}"><div class="item-after">回复</div></a>
+              </div>
+              <div class="item-text">{$v.comment}</div>
+              </div>
+              </li>
+            </foreach>
+          </ul>
+        </div>  
+      </div>     
+    </div>
+
+    <!-- content -->
+   </div>
+
+   <!-- page -->
+  </div>
+ </div>
+<include file="public:footer"/>

@@ -1,0 +1,795 @@
+[ 2016-06-02T16:47:44+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-02T16:49:29+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:30+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:30+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:31+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:31+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:31+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:31+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:32+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:38+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:38+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-02T16:49:38+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:39+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:39+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:49:48+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+
+[ 2016-06-02T16:49:48+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+
+[ 2016-06-02T16:49:48+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+
+[ 2016-06-02T16:49:49+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+
+[ 2016-06-02T16:49:49+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+
+[ 2016-06-02T16:49:49+08:00 ] 192.168.1.117 /demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+
+[ 2016-06-02T16:50:10+08:00 ] 192.168.1.117 /demo/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Show
+
+[ 2016-06-02T16:50:21+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+
+[ 2016-06-02T16:50:30+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+ERR: 模板不存在:./APP/Demo/View/mobile/Index_index.html
+
+[ 2016-06-02T16:50:31+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+ERR: 模板不存在:./APP/Demo/View/mobile/Index_index.html
+
+[ 2016-06-02T16:50:31+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+ERR: 模板不存在:./APP/Demo/View/mobile/Index_index.html
+
+[ 2016-06-02T16:50:32+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+ERR: 模板不存在:./APP/Demo/View/mobile/Index_index.html
+
+[ 2016-06-02T16:50:32+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+ERR: 模板不存在:./APP/Demo/View/mobile/Index_index.html
+
+[ 2016-06-02T16:50:32+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+ERR: 模板不存在:./APP/Demo/View/mobile/Index_index.html
+
+[ 2016-06-02T16:50:33+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+ERR: 模板不存在:./APP/Demo/View/mobile/Index_index.html
+
+[ 2016-06-02T16:50:41+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:50:42+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:50:42+08:00 ] 192.168.1.117 /demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:50:51+08:00 ] 192.168.1.117 /demo/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Show
+
+[ 2016-06-02T16:51:04+08:00 ] 192.168.1.117 /demo/inde/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Inde
+
+[ 2016-06-02T16:51:09+08:00 ] 192.168.1.117 /demo/index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Demo\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\IndexController.class.php 第 7 行.
+
+[ 2016-06-02T16:51:21+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2016-06-02T16:52:16+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: model W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 24 行.
+
+[ 2016-06-02T16:52:17+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: model W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 24 行.
+
+[ 2016-06-02T16:52:17+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: model W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 24 行.
+
+[ 2016-06-02T16:52:27+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: video_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 25 行.
+NOTIC: [2] Invalid argument supplied for foreach() W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: model W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 50 行.
+
+[ 2016-06-02T16:52:27+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: video_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 25 行.
+NOTIC: [2] Invalid argument supplied for foreach() W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: model W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 50 行.
+
+[ 2016-06-02T16:52:28+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: video_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 25 行.
+NOTIC: [2] Invalid argument supplied for foreach() W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: model W:\PHP\xamppWeb\thinkphp3.2.3\APP\Demo\Controller\WeituoController.class.php 第 50 行.
+
+[ 2016-06-02T16:52:44+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/Weituo_index.html
+
+[ 2016-06-02T16:52:45+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/Weituo_index.html
+
+[ 2016-06-02T16:52:45+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/Weituo_index.html
+
+[ 2016-06-02T16:53:12+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/weituo_play.html
+
+[ 2016-06-02T16:53:12+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/weituo_play.html
+
+[ 2016-06-02T16:53:12+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/weituo_play.html
+
+[ 2016-06-02T16:53:24+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/weituo_play.html
+
+[ 2016-06-02T16:53:24+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/weituo_play.html
+
+[ 2016-06-02T16:53:24+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/weituo_play.html
+
+[ 2016-06-02T16:53:25+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/weituo_play.html
+
+[ 2016-06-02T16:53:43+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 20 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 22 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 36 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 36 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 38 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 41 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 42 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 43 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 44 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 46 行.
+NOTIC: [8] Undefined variable: head W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 50 行.
+NOTIC: [8] Undefined variable: wt_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 59 行.
+NOTIC: [8] Undefined variable: hx_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 82 行.
+NOTIC: [8] Undefined variable: comment W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:43+08:00 ] 192.168.1.117 /demo/__CSS__/wwplay.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:__CSS__
+
+[ 2016-06-02T16:53:43+08:00 ] 192.168.1.117 /demo/__IMG__/sharejt.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:43+08:00 ] 192.168.1.117 /demo/__IMG__/bfl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:43+08:00 ] 192.168.1.117 /demo/__IMG__/pl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:43+08:00 ] 192.168.1.117 /demo/__IMG__/share.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:44+08:00 ] 192.168.1.117 /Demo/Weituo/is_score.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:53+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 20 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 22 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 36 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 36 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 38 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 41 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 42 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 43 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 44 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 46 行.
+NOTIC: [8] Undefined variable: head W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 50 行.
+NOTIC: [8] Undefined variable: wt_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 59 行.
+NOTIC: [8] Undefined variable: hx_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 82 行.
+NOTIC: [8] Undefined variable: comment W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:53+08:00 ] 192.168.1.117 /demo/__CSS__/wwplay.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:__CSS__
+
+[ 2016-06-02T16:53:53+08:00 ] 192.168.1.117 /demo/__IMG__/sharejt.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:53+08:00 ] 192.168.1.117 /demo/__IMG__/bfl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:53+08:00 ] 192.168.1.117 /demo/__IMG__/pl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:53+08:00 ] 192.168.1.117 /demo/__IMG__/share.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-02T16:53:53+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 20 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 22 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 36 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 36 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 38 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 41 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 42 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 43 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 44 行.
+NOTIC: [8] Undefined variable: list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 46 行.
+NOTIC: [8] Undefined variable: head W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 50 行.
+NOTIC: [8] Undefined variable: wt_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 59 行.
+NOTIC: [8] Undefined variable: hx_info W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 82 行.
+NOTIC: [8] Undefined variable: comment W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\6e7cac5c56c7da648a2ceb3ef9197e17.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:53:53+08:00 ] 192.168.1.117 /Demo/Weituo/is_score.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-02T16:54:33+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/Weituo_index.html
+
+[ 2016-06-02T16:54:34+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/Weituo_index.html
+
+[ 2016-06-02T16:54:34+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./APP/Demo/View/mobile/Weituo_index.html
+
+[ 2016-06-02T16:54:47+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: time W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\58c116083ca0966d4831eefab1e6bde0.php 第 67 行.
+NOTIC: [8] Undefined variable: wt_list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\58c116083ca0966d4831eefab1e6bde0.php 第 83 行.
+NOTIC: [8] Undefined variable: wx_list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\58c116083ca0966d4831eefab1e6bde0.php 第 108 行.
+NOTIC: [8] Undefined variable: hx_list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\58c116083ca0966d4831eefab1e6bde0.php 第 133 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:54:47+08:00 ] 192.168.1.117 /demo/__CSS__/wwi.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:__CSS__
+
+[ 2016-06-02T16:54:47+08:00 ] 192.168.1.117 /demo/__IMG__/pic1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-02T16:54:47+08:00 ] 192.168.1.117 /demo/__IMG__/playbutton.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:54:47+08:00 ] 192.168.1.117 /demo/__IMG__/wtwx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:54:47+08:00 ] 192.168.1.117 /demo/__IMG__/pic2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-02T16:54:58+08:00 ] 192.168.1.117 /demo/weituo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: time W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\58c116083ca0966d4831eefab1e6bde0.php 第 67 行.
+NOTIC: [8] Undefined variable: wt_list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\58c116083ca0966d4831eefab1e6bde0.php 第 83 行.
+NOTIC: [8] Undefined variable: wx_list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\58c116083ca0966d4831eefab1e6bde0.php 第 108 行.
+NOTIC: [8] Undefined variable: hx_list W:\PHP\xamppWeb\thinkphp3.2.3\APP\Runtime\Cache\Demo\58c116083ca0966d4831eefab1e6bde0.php 第 133 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-02T16:54:58+08:00 ] 192.168.1.117 /demo/__CSS__/wwi.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:__CSS__
+
+[ 2016-06-02T16:54:58+08:00 ] 192.168.1.117 /demo/__IMG__/playbutton.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:54:58+08:00 ] 192.168.1.117 /demo/__IMG__/pic2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:54:58+08:00 ] 192.168.1.117 /demo/__IMG__/pic1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-02T16:54:58+08:00 ] 192.168.1.117 /demo/__IMG__/wtwx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-02T16:55:00+08:00 ] 192.168.1.117 /Demo/Salonroute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Salonroute
+
+[ 2016-06-02T16:55:02+08:00 ] 192.168.1.117 /demo/__CSS__/wwi.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:__CSS__
+

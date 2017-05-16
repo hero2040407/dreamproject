@@ -1,0 +1,227 @@
+<include file="public:header"/>
+<!-- 我的页面 -->
+<div class="page-group">
+<div id="mine" class="page page-current">
+  <nav class="bar bar-tab">
+  <a class="tab-item " href="__URL__/index">
+      <span class="icon icon-home"></span>
+      <span class="tab-label">首页</span>
+    </a>
+    <a class="tab-item" href="__URL__/create">
+      <span class="icon icon-star"></span>
+      <span class="tab-label">创想</span>
+    </a>
+<a class="tab-item active" href="#">
+      <span class="icon icon-me"></span>
+      <span class="tab-label">我</span>
+    </a>
+</nav>
+<!-- page 1 -->
+
+<div class="content">
+  <if condition="$question eq 1">
+    <div class="list-block media-list">
+      <ul>
+        <li>
+          <div class="item-content">
+            <div class="item-inner">
+              <a href="__URL__/login"><h3>登录</h3></a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  <else/>
+   
+      <div class="list-block media-list">
+      <ul>
+      
+          <li><div class="item-content">
+            <div class="item-inner">
+              <a href="#question"><h3>我的提问</h3></a>
+            </div>
+          </div></li>
+          <li><div class="item-content">
+            <div class="item-inner">
+              <a href="#data"><h3>我的资料</h3></a>
+            </div>
+          </div></li>
+          <li><div class="item-content">
+            <div class="item-inner">
+              <a href="#comment" data-no-cache="true"><h3>我的评论</h3></a>
+            </div>
+          </div></li>
+          <li><div class="item-content">
+            <div class="item-inner">
+              <a href="" id="logout"><h3>注销</h3></a>
+            </div>
+          </div></li>
+         <!--  <li><a href="#comment">我的评论</a></li>
+          <li><a href="#data">我的资料</a></li>
+          <li><a href="__URL__/login">登录</a></li> -->
+          </ul>
+          </div>
+  </if>
+        </div>
+    </div>
+
+<!-- question -->
+<div class="page" id='question'>
+  <header class="bar bar-nav">
+    <h1 class='title'>我的提问</h1>
+    <p class="button button-link button-nav pull-right edit">
+      编辑
+      <span class="icon icon-menu"></span>
+    </p>
+  </header>
+
+  <div class="content">
+    <div class="buttons-tab">
+      <a href="#tab3" class="tab-link active button">公开问题</a>
+      <a href="#tab4" class="tab-link button">私人问题</a>
+    </div>
+
+    <div class="tabs">
+      <div id="tab3" class="tab active">
+       <div class="list-block media-list">
+        <div class="list-group">
+          <ul class="list-question">
+            <foreach name="question" item="v">
+              <li>
+                <div class="item-content">
+                  <div class="item-inner">
+                  <div class="item-title-row">
+                    <a href="{:U('object/choose',array('id' => $v['id']))}">
+                    <div class="item-title">{$v.question}</div></a>
+                    <div class="item-after">
+                    <if condition="$v['audit'] eq 1">
+                    审核通过
+                    <else/>
+                    未审核
+                    </if>
+                    </div>
+                    <div id="{$v.id}" class="item-after delete" style="color:red;">删除</div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </foreach>
+          </ul>
+        </div>
+    </div>
+  </div>
+
+<div id="tab4" class="tab">
+      <div class="list-block media-list">
+        <div class="list-group">
+          <ul class="list-personal">
+            <foreach name="personal" item="v">
+              <li>
+                <div class="item-content">
+                  <div class="item-inner">
+                  <div class="item-title-row">
+                    <a href="{:U('object/choose',array('id' => $v['id']))}">
+                    <div class="item-title">{$v.question}</div></a>
+                    <div id="{$v.id}" class="item-after delete" style="color:red;">删除</div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </foreach>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- data -->
+  <div class="page" id=''>
+  <header class="bar bar-nav">
+    <h1 class='title'>我的资料</h1>
+  </header>
+  <div class="content">
+
+    
+
+    </div>
+  </div>
+
+<!-- comment -->
+  <div class="page" id='comment'>
+  <header class="bar bar-nav">
+    <h1 class='title'>评论内容</h1>
+    <p class="button button-link button-nav pull-right edit">
+      编辑
+      <span class="icon icon-menu"></span>
+    </p>
+  </header>
+  <div class="content">
+    <div class="buttons-tab">
+      <a href="#tab1" class="tab-link active button">我的评论</a>
+      <a href="#tab2" class="tab-link button">我的回复</a>
+    </div>
+    <div class="tabs">
+      <div id="tab1" class="tab active">
+
+      <div class="list-block media-list">
+          <ul class="list-comment">
+          <foreach name="comment" item="v">
+            <li>
+              <div class="item-content">
+                <div class="item-inner">
+                  <div class="item-title-row">
+                    <a href="{:U('object/choose',array('id' => $v['qid']))}">
+                      <div class="item-title">{$v.comment}</div></a>
+                      <div id="{$v.id}" class="item-after delete" style="color:red;">删除</div>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </foreach>
+        </ul>
+    </div>
+
+      <div class="content-block">
+        <div class="row">
+            <div class="col-50"><a href="" id="commentup" class="button button-danger">上一页</a></div>
+            <div class="col-50"><a href="#" id="commentdown" class="button  button-dark">下一页</a></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="tab2" class="tab">
+        <div class="list-block media-list">
+          <ul class="list-reply">
+          <foreach name="reply" item="v">
+            <li>
+              <div class="item-content">
+                <div class="item-inner">
+                  <div class="item-title-row">
+                    <a href="{:U('object/commentreply',array('pid' => $v['pid']))}">
+                      <div class="item-title">{$v.comment}</div></a>
+                      <div id="{$v.id}" class="item-after delete" style="color:red;">删除</div>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </foreach>
+        </ul>
+    </div>
+
+      <div class="content-block">
+        <div class="row">
+            <div class="col-50"><a href="" id="replyup" class="button button-danger">上一页</a></div>
+            <div class="col-50"><a href="#" id="replydown" class="button  button-dark">下一页</a></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+</div>
+
+<!-- page -->
+</div>
+
+<include file="public:footer"/>

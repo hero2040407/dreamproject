@@ -1,0 +1,1 @@
+a:4:{i:0;s:3:"uid";i:1;s:3:"qid";i:2;s:3:"cid";s:5:"_type";a:3:{s:3:"uid";s:12:"mediumint(8)";s:3:"qid";s:12:"mediumint(8)";s:3:"cid";s:12:"mediumint(8)";}}

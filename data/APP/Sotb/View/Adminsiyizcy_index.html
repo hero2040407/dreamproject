@@ -1,0 +1,45 @@
+<include file="public:header"/>
+<div class="page-group">
+  <div class="page" id='admin'>
+	  <header class="bar bar-nav">
+	    <h1 class='title'><if condition = "$question['0']['audit'] eq 1">
+          	已审核的问题
+          	<else/>
+          	未审核的问题
+          	</if></h1>
+	    <p class="button button-link button-nav pull-right edit">
+	      编辑
+	      <span class="icon icon-menu"></span>
+	    </p>
+	    <a href="{:U('adminsiyizcy/index','allow=1')}" class="button button-link button-nav pull-left">
+	      已审核的问题
+	    </a>
+	     <a href="{:U('adminsiyizcy/index')}" class="button button-link button-nav pull-left">
+	      未审核的问题
+	    </a>
+	  </header>
+<div class="content">
+  	<div class="list-block media-list">
+          <ul>
+            <foreach name="question" item="v">
+              <li>
+                <div class="item-content">
+                  <div class="item-inner">
+                  <div class="item-title-row">
+                    <a href="{:U('object/choose',array('id' => $v['id']))}">
+                    <div class="item-title">{$v.question}</div></a>
+                    <div id="{$v.id}" class="item-after">
+                    <div style="color:red;" class="delete">删除</div>
+                    <div class="allow" id="{$v.id}">通过</div>
+                    </div>
+                    </div>
+                  </div>
+              </li>
+            </foreach>
+          </ul>
+        </div>
+	{$pagestr}
+		</div>
+	  </div>
+	</div>
+<include file="public:footer"/>
